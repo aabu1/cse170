@@ -1,0 +1,52 @@
+{
+	"housing": [
+		{
+			"type": "Apartment",
+			"bed": "1",
+			"bath": "1",
+			"cost": "500",
+			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
+			"image": "https://images.unsplash.com/photo-1428831183636-5dc9c947201d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300"			
+		},
+		{
+			"type": "Condo",
+			"bed": "2",
+			"bath": "2",
+			"cost": "700",
+			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
+			"image": "https://images.unsplash.com/photo-1428831183636-5dc9c947201d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300"			
+		},
+		{
+			"type": "House",
+			"bed": "3",
+			"bath": "2",
+			"cost": "800",
+			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
+			"image": "https://images.unsplash.com/photo-1428831183636-5dc9c947201d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300"			
+		},
+		{
+			"type": "Apartment",
+			"bed": "2",
+			"bath": "2",
+			"cost": "550",
+			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
+			"image": "https://images.unsplash.com/photo-1428831183636-5dc9c947201d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300"			
+		},
+		{
+			"type": "House",
+			"bed": "1",
+			"bath": "1",
+			"cost": "650",
+			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
+			"image": "https://images.unsplash.com/photo-1428831183636-5dc9c947201d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300"			
+		},
+		{
+			"type": "Apartment",
+			"bed": "1",
+			"bath": "1",
+			"cost": "450",
+			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
+			"image": "https://images.unsplash.com/photo-1428831183636-5dc9c947201d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300"			
+		}
+	]
+}

@@ -1,11 +1,13 @@
 {
 	"housing": [
 		{
+			"id": "1",
 			"title": "Nice view in safe area",
 			"type": "Shared",
 			"bed": "1",
 			"bath": "1",
 			"cost": "500 €",
+			"city": "Berlin",
 			"availability": "5/2/2016",
 			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
 			"image1": "/image/pictures/img1.PNG",
@@ -15,11 +17,13 @@
 			"email": "email@example.com"	
 		},
 		{
+			"id": "2",
 			"title": "Spacious private room",
 			"type": "Private",
 			"bed": "2",
 			"bath": "2",
 			"cost": "700 €",
+			"city": "Munich",
 			"availability": "2/27/2016",
 			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
 			"image1": "/image/pictures/img4.PNG",
@@ -29,11 +33,13 @@
 			"email": "email@example.com"			
 		},
 		{
+			"id": "3",
 			"title": "Home with nice large backyard",
 			"type": "Entire",
 			"bed": "3",
 			"bath": "2",
 			"cost": "800 €",
+			"city": "Hamburg",
 			"availability": "5/12/2016",
 			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
 			"image1": "/image/pictures/img7.PNG",
@@ -43,11 +49,13 @@
 			"email": "email@example.com"	
 		},
 		{
+			"id": "4",
 			"title": "Large shared room",
 			"type": "Shared",
 			"bed": "2",
 			"bath": "2",
 			"cost": "550 €",
+			"city": "Berlin",
 			"availability": "6/12/2016",
 			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
 			"image1": "/image/pictures/img1.PNG",
@@ -57,11 +65,13 @@
 			"email": "email@example.com"			
 		},
 		{
+			"id": "5",
 			"title": "Cozy private apartment",
 			"type": "Private",
 			"bed": "1",
 			"bath": "1",
 			"cost": "650 €",
+			"city": "Berlin",
 			"availability": "3/24/2016",
 			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
 			"image1": "/image/pictures/img4.PNG",
@@ -71,11 +81,13 @@
 			"email": "email@example.com"		
 		},
 		{
+			"id": "6",
 			"title": "Modern apartment in Berlin",
 			"type": "Apartment",
 			"bed": "1",
 			"bath": "1",
 			"cost": "450 €",
+			"city": "Munich",
 			"availability": "4/15/2016",
 			"description": "Spacious and bright, this remodeled unit located on the 2nd floor in a gated complex. Granite tile floors, large wall-to-wall closet in bedroom, built-in storage in the bathroom.",
 			"image1": "/image/pictures/img7.PNG",
